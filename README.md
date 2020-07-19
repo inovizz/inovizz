@@ -7,21 +7,15 @@ class WhoIsSanchit:
     name: str = "Sanchit Balchandani"
     social_nick: str = "@inovizz"
     age: int = 33
-    current_location: str = "Hyderabad, India "
+    current_location: str = "Hyderabad, India"
     proficiency: str = "Python Programmer 🐍"
     total_exp: int = 10
-    currently_working_on: str = "NodeJs, Gitlab-CI, Docker 🔭"
-    currently_learning: str = "Async Programming, Go & preparing for CKAD 🌱"
+    working_with: str = "EPAM Systems, India"
+    domains_worked_on: str = "Healthcare, Ad-Tect, Automation, Infrastructure, Ecommerece"
+    passionate_about: str = "Community Building, Python, Docker & Free education"
+    currently_working_on: str = "NodeJs, Gitlab-CI, Docker"
+    currently_learning: str = "Async Programming, Go & preparing for CKAD"
     ask_me_about: str = "Python, Docker, HydPy & DSUG Hyd"
-    summary: str = """Sanchit is a senior Python developer having 10 years of
-                       IT experience. He has worked in multiple domains like 
-                       - healthcare, ad-tech, infrastructure and automation. 
-                       Majorly, he has been working in the backend side of the 
-                       systems and also lately on SRE(DevOps). He is very 
-                       passionate about Community Building, Python & 
-                       Infrastructure. He strongly believes in the power of 
-                       community and spends his free time contributing towards 
-                       some open source communities like HydPy & DSUG Hyd."""
 
 
 @dataclass(frozen=True)
