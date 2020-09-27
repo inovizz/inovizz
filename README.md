@@ -9,7 +9,6 @@ class WhoIsSanchit:
     working_with: str = "EPAM Systems, India"
     passionate_about: str = "Community Building, Python, Docker & Free education"
     currently_working_on: str = "NodeJs, Gitlab-CI, Docker"
-    currently_learning: str = "Async Programming, Go & preparing for CKAD"
     ask_me_about: str = "Python, Docker, HydPy & DSUG Hyd"
 
 
