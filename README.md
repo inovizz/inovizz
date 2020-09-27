@@ -8,7 +8,7 @@ class WhoIsSanchit:
     proficiency: str = "Python Programmer 🐍"
     working_with: str = "EPAM Systems, India"
     passionate_about: str = "Community Building, Python, Docker & Free education"
-    currently_working_on: str = "NodeJs, Gitlab-CI, Docker"
+    currently_working_on: str = "Python, NodeJs, Gitlab-CI, Docker"
     ask_me_about: str = "Python, Docker, HydPy & DSUG Hyd"
 
 
