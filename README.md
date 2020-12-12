@@ -1,3 +1,5 @@
+# Hello!, I am Sanchit! ![Profile Views](https://komarev.com/ghpvc/?username=inovizz&color=brightgreen)
+
 ```
 from dataclasses import dataclass
 
