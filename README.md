@@ -9,20 +9,20 @@ class WhoIsSanchit:
     name: str = "Sanchit Balchandani"
     proficiency: str = "Python Programmer 🐍"
     working_with: str = "EPAM Systems, India"
-    passionate_about: str = "Community Building, Python, Docker & Free education"
-    currently_working_on: str = "Python, NodeJs, Gitlab-CI, Docker"
-    ask_me_about: str = "Python, Docker, HydPy & DSUG Hyd"
+    passionate_about: str = "Community Building, Python, SRE(DevOps) & Free education"
+    currently_working_on: str = "Python, GKE, Terraform, Cloud Vision API"
+    ask_me_about: str = "Python, Docker, GKE, HydPy & DSUG Hyd"
 
 
 @dataclass(frozen=True)
 class SkillSet:
     programming_languages: str = "Python, JavaScript, Go(Beginner), Solidity"
-    operation_systems: str = "Linux, Windows"
-    web_frameworks: str = "Django, Flask, Express, DRF, Channels"
-    web_technolgies: str = "NodeJS, HTML, CSS, JQuery, ReactJS(Beginner)"
+    operation_systems: str = "Linux, Windows, MacOS"
+    web_frameworks: str = "Django, Flask, Express, DRF"
+    web_technolgies: str = "NodeJS, HTML, CSS, JQuery, ReactJS(Novice)"
     dapp_development: str = "Blockchain, Truffle, Web3.js, Solidity, Geth, testRPC, Ethereum"
-    devops: str = "Apache, Nginx, Docker, uWSGI, Gunicron, K8s(begineer), Jenkins, Bash"
-    databases: str = "Postgres, MySQL, SQLite ,MongoDB"
+    devops: str = "Apache, Nginx, Docker, uWSGI, Gunicron, K8s, Jenkins, Bash, Terraform, GKE"
+    databases: str = "Postgres, MySQL, SQLite ,MongoDB, Firestore"
     version_control: str = "Git, Bitbucket, Gitlab"
  
 
